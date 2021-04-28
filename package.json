@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "buffer-to-data-url": "^1.0.0",
+    "dataurl-to-blob": "^0.0.1",
+    "rc-table": "^7.14.0",
+    "react-modal": "^3.13.1"
+  }
+}
